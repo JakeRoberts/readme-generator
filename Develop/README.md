@@ -1,19 +1,19 @@
-# I HATE BEING PUT ON THE SPOT
+# I dont like being put on the spot.
   [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   ## Description
-  it's not fun to be put on the spot
+  Being put on the spot is very uncomfortable.
   ## Table of Contents
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [Contribution](#Contribution)
   * [Test](#Test)
-  * [Links](#Links)
+  * [Questions](#Questions)
   ## Installation
-  node index
+  npm i
   ## Usage
-  Type it out
+  I cant think of one.
   ## Contribution
-  When others help.
+  None. all me.
   ## License
   (https://www.gnu.org/licenses/gpl-3.0)
   Copyright (C) <year>  <name of author>
@@ -31,6 +31,6 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
   ## Test
-  This way
+  npm test
   ## Questions
-  If you have any questions about the repo, open an issue or contact me directly at r.jacobs@gmail.com. You can find more of my work at https://github.com/JakeRoberts
+  If you have any questions about the repo, open an issue or contact me directly at nottelling@gmail.com. You can find more of my work at https://github.com/JakeRoberts

@@ -13,7 +13,7 @@ const questions = [
         name: "title",
     },
     {
-        message: "Give a description on you project:",
+        message: "Give a description on your project:",
         name: "description",
     },
     {
