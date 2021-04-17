@@ -79,7 +79,7 @@ function generateMarkdown(data) {
   * [Usage](#Usage)
   * [Contribution](#Contribution)
   * [Test](#Test)
-  * [Links](#Links)
+  * [Questions](#Questions)
   ## Installation
   ${data.installation}
   ## Usage
